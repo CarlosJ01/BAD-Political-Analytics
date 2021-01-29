@@ -6,9 +6,9 @@ Para arrancar el servidor en python, debe intalar las siguientes librerias.
 y tener instalado el gestor de base de datos MongoDB.
 
 ## Arrancar el servidor
-Para arrancar el servidor debera de correr el archivo que esta en \Servidor\main.py y este al arranca crea un servidor de HTTP en el puerto 8080 (http://127.0.0.1:8080/). Las direcciones que usa son las siguientes:
-    - http://127.0.0.1:8080/consulta => Consulta de la informacion a la base de datos, analisa y regresa la informacion que json
-    - http://127.0.0.1:8080/recoleccion/api-webScraping => Recoleta informacion de API de Twitter y Web Scraping de Facebook, Analiza y Almacena en la Base de Datos
+Para arrancar el servidor debera de correr el archivo que esta en \Servidor\main.py y este al arranca crea un servidor de HTTP en el puerto 8080 (http://127.0.0.1:8080/). Las direcciones que usa son las siguientes:<br>
+    - http://127.0.0.1:8080/consulta => Consulta de la informacion a la base de datos, analisa y regresa la informacion que json<br>
+    - http://127.0.0.1:8080/recoleccion/api-webScraping => Recoleta informacion de API de Twitter y Web Scraping de Facebook, Analiza y Almacena en la Base de Datos<br>
 <br>
 <strong>
 Una ves arriba el servidor debera consultar 2 veces la url (http://127.0.0.1:8080/recoleccion/api-webScraping), para generar dos puntos de analizis y con este podra hacer la regresion lineal para predicciones.
