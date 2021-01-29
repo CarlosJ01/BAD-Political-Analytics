@@ -10,7 +10,9 @@ Para arrancar el servidor debera de correr el archivo que esta en \Servidor\main
     - http://127.0.0.1:8080/consulta => Consulta de la informacion a la base de datos, analisa y regresa la informacion que json
     - http://127.0.0.1:8080/recoleccion/api-webScraping => Recoleta informacion de API de Twitter y Web Scraping de Facebook, Analiza y Almacena en la Base de Datos
 <br>
+<strong>
 Una ves arriba el servidor debera consultar 2 veces la url (http://127.0.0.1:8080/recoleccion/api-webScraping), para generar dos puntos de analizis y con este podra hacer la regresion lineal para predicciones.
+</strong>
 <br>
 Para visualizar los resultados debera abrir el archivo (\Cliente\index.html), y aqui podra visualizar los datos del servidor <br>
 Tambien podra hacer un analizis de datos con el boton llamado (Recoleccion de Datos), y cuando este termine recarge la paguina para ver los nuevos datos <br>
