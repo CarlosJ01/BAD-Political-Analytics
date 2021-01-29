@@ -20,9 +20,9 @@ Tambien podra hacer un analizis de datos con el boton llamado (Recoleccion de Da
 
 ## Evidencia de Pruebas
 Paguina Principal
-<img src="Evidencia 02.png" alt="License">
-<hr>
 <img src="Evidencia 03.png" alt="License">
+<hr>
+<img src="Evidencia 02.png" alt="License">
 <hr>
 Base de Datos
 <img src="BD.png" alt="License">
