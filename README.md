@@ -22,6 +22,7 @@ Paguina Principal
 <hr>
 <img src="Evidencia 03.png" alt="License">
 <hr>
+Base de Datos
 <img src="BD.png" alt="License">
 <hr>
 <img src="BD 01.png" alt="License">
